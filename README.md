@@ -118,15 +118,6 @@ A structured, step-by-step roadmap to go from zero to confident Python programme
 - Set operations: union (`|`), intersection (`&`), difference (`-`)
 - Common methods: `.add()`, `.remove()`, `.discard()`
 - When to use sets
-
-### 4.5 Choosing the Right Data Structure
-| Structure  | Ordered | Mutable | Duplicates | Key-Value |
-|------------|---------|---------|------------|-----------|
-| List       | ✅       | ✅       | ✅          | ❌         |
-| Tuple      | ✅       | ❌       | ✅          | ❌         |
-| Dictionary | ✅ (3.7+)| ✅      | Keys: ❌    | ✅         |
-| Set        | ❌       | ✅       | ❌          | ❌         |
-
 ---
 
 ## Phase 5: Functions
