@@ -1,5 +1,3 @@
-# learn-python
-
 # 🐍 Python Learning Outline for Beginners
 
 A structured, step-by-step roadmap to go from zero to confident Python programmer.
